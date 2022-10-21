@@ -1,0 +1,19 @@
+.info {
+	width: 35vw;
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	color: rgb(15, 235, 180);
+	gap: 20px;
+}
+
+.player {
+	border: 2px solid #4ae757;
+	border-radius: 10px;
+	padding: 1.5rem ;
+	display: flex;
+	font-size: 1.5rem;
+	justify-content: center;
+	align-items: center;
+	width: 15vw;
+}
